@@ -1,0 +1,5 @@
+MAINTAINER="devsu"
+IMAGE="cliente"
+TAG="v1.0.0"
+IMAGE_TAG="${MAINTAINER}/${IMAGE}:${TAG}"
+HOST_PORT=8080
